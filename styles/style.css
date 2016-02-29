@@ -49,7 +49,7 @@ ul {
 .content {
   padding: 0 1rem;
   max-width: 1040px;
-  margin: auto;
+  margin: 0 auto 0 auto;
 }
 
 .student-info {
