@@ -26,7 +26,7 @@ ul {
 .top-nav__list {
   max-width: 1040px;
   margin: 0 auto;
-
+  color: #F25F5C;
   overflow: auto;
 }
 
@@ -38,7 +38,7 @@ ul {
 }
 
 .top-nav__item--brand {
-  float: right;
+  float: left;
 }
 
 .top-nav {
@@ -48,8 +48,8 @@ ul {
 
 .content {
   padding: 0 1rem;
-  max-width: 1040px
-  margin: auto
+  max-width: 1040px;
+  margin: auto;
 }
 
 .student-info {
@@ -74,7 +74,7 @@ ul {
 }
 
 .student-info__social-list {
-  margin: auto
+  margin: auto;
   text-align: center;
 }
 
