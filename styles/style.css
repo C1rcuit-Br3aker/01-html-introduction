@@ -23,10 +23,14 @@ ul {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #F25F5C;
+}
+
 .top-nav__list {
   max-width: 1040px;
   margin: 0 auto;
-
   overflow: auto;
 }
 
@@ -38,18 +42,17 @@ ul {
 }
 
 .top-nav__item--brand {
-  float: right;
+  float: left;
 }
 
 .top-nav {
   background: #272727;
-  color: antiquewhite;
 }
 
 .content {
   padding: 0 1rem;
-  max-width: 1040px
-  margin: auto
+  max-width: 1040px;
+  margin: 0 auto 0 auto;
 }
 
 .student-info {
@@ -74,10 +77,11 @@ ul {
 }
 
 .student-info__social-list {
-  margin: auto
+  margin: auto;
   text-align: center;
 }
 
 .student-info__social-item {
   display: inline-block;
+  color: #247BA0;
 }
